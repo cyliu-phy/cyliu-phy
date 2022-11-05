@@ -2,7 +2,7 @@
 - 👀 I’m interested in science and engineering.
 - 🌱 I’m currently learning particle physics and quantum field theory.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me liucy1999@163.com
+- 📫 How to reach me cyliu.phy@gmail.com
 
 <!---
 cyliu1999/cyliu1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
