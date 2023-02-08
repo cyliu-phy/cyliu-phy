@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cyliu-99
+- 👋 Hi, I’m @cyliu-phy
 - 👀 I’m interested in science and engineering.
 - 🌱 I’m currently learning particle physics and quantum field theory.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on science research or coding.
 - 📫 How to reach me cyliu.phy@gmail.com
 
 <!---
